@@ -6,7 +6,7 @@ import Process from "./Process";
 import Terms from "./Terms";
 import Course from "./Course";
 
-function Email() {
+function EmailPRD5() {
   return (
     <>
       <Header></Header>
@@ -19,4 +19,4 @@ function Email() {
   );
 }
 
-export default Email;
+export default EmailPRD5;

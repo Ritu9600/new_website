@@ -36,7 +36,7 @@ font-weight: 700;
 .main{
    
     border: 1px solid #13AE7E;
-border-radius: 11.2161px;
+    border-radius: 11.2161px;
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;

@@ -97,7 +97,7 @@ function Lectures() {
   const location = useLocation();
   const high = Math.ceil(subjects.length / 9);
   // console.log(subjects.length);
-  // console.log(high);
+  console.log(high);
   console.log("location ", location.pathname.split("/")[2]);
   const pagenumber = Number(location.pathname.split("/")[2]);
   useEffect(() => {
