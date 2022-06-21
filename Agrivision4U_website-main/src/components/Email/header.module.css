@@ -1,0 +1,36 @@
+.main{
+    display: flex;
+    justify-content: flex-start;
+    padding: 2%;
+    gap: 10%;
+    height: 90%;
+
+}
+.left{
+    width: 30%
+}
+.img{
+    width: 40%;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    transform: translateY(-10%);
+}
+.organization{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 450;
+color:  #0B6E4F;
+font-size: 120%;
+
+}
+.talent{
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+color:  #0B6E4F;
+transform: translateY(-100%);
+font-size: 270%;
+}
