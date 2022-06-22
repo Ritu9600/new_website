@@ -1,8 +1,7 @@
 import React from "react";
 import styles from "./card.module.css";
-import { useLocation, Link } from "react-router-dom";
 import { useEffect, useState } from "react";
-function Card() {
+function CardPRD5() {
   const cards = [
     {
       id: 1,
@@ -76,4 +75,4 @@ function Card() {
   );
 }
 
-export default Card;
+export default CardPRD5;
